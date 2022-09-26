@@ -25,19 +25,27 @@ My Life is in Information Technology and My goal is to help as MANY PEOPLE AS PO
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
 #
 
-## 🔧 Technologies
-
-![skills](https://skillicons.dev/icons?
-i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,sql server,py,java,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
-
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "     I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
+[![ CSS Text Portrait | Tagalog Tutorial - No CODE!](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "     CSS Text Portrait | Tagalog Tutorial - No CODE!")](https://www.youtube.com/watch?v=5l0PvYmWSzY)
 [![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
 [![I Built an AI That Shoots Me in the Face When I Get Distracted](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "I Built an AI That Shoots Me in the Face When I Get Distracted")](https://www.youtube.com/watch?v=A8eegxL82PI)
 [![Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)](https://ytcards.demolab.com/?id=H68Iqm6c36U&title=Why+I%E2%80%99m+able+to+Code+4+Hours+with+NO+breaks+%28how+to+stay+focused+%26+productive%29&timestamp=1660140015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=538 "Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)")](https://www.youtube.com/watch?v=H68Iqm6c36U)
