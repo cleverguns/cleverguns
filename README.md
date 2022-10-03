@@ -9,7 +9,7 @@ My Life is in Information Technology and My goal is to help as MANY PEOPLE AS PO
 
    <p align="left">
       <a href="https://www.youtube.com/c/ClevergunsYT?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers//UCZ9BZTDjQasTl6CHxhwBcIg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCZ9BZTDjQasTl6CHxhwBcIg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
    
    
       <a href="https://www.youtube.com/c/ClevergunsYT">
