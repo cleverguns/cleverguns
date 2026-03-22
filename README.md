@@ -1,6 +1,6 @@
 # 🏄‍♂️ Carlo Gimpaya / ClevergunsYT
 
-**`Founder of LohiKal Technologies (Developer/Writter/Creator)`**
+**`Founder of Falah Labs Technologies (Developer/Writter/Creator)`**
 - 🔏 Bug bounty hunter in free time.
 
 My Life is in Information Technology and My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field. I talk about Web development, Programming, Computer Networking, Network-Automation, Microsoft and Linux...pretty much EVERYTHING in IT. As a Software Engineer and Security Analyst, it's also my passion to TEACH information technology and to have it fun making Ethical hacking videos. I publish that content on my YouTube channel "[ClevergunsYT][youtube]" to more than 3k subscribers.
